@@ -29,10 +29,10 @@ I love turning ideas into **fast, accessible, and responsive** digital experienc
 
 ## 📊 GitHub Stats
 
-![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasanSmajlovic&show_icons=true&theme=radical&hide_title=true)
+![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasan-Smajlovic&show_icons=true&theme=radical&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanSmajlovic&layout=compact&theme=radical&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Smajlovic&layout=compact&theme=radical&langs_count=6)
 
 ## 🐱 Convoy Cat
 
-![Convoy Cat](https://github.com/HasanSmajlovic/HasanSmajlovic/blob/output/github-contribution-grid-snake.svg)
+![Convoy Cat](https://github.com/Hasan-Smajlovic/Hasan-Smajlovic/blob/output/github-contribution-grid-snake.svg)
