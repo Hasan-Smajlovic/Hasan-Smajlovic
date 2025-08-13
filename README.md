@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hasan
 
-### 🎓 Bachelor of Software Engineering | 💻 Frontend-Leaning Full-Stack Developer
+### 🎓 Bachelor of Software Engineering | 💻 Frontend-Leaning Full-Stack Developer & 💻 Machine-Learning Specialist
 
 I craft modern, performant web applications using Next.js and React.js, ensure clean UI with TypeScript, and build solid APIs with Node.js. Currently exploring **Machine Learning** to merge intelligent features into web solutions.
 
