@@ -33,6 +33,3 @@ I love turning ideas into **fast, accessible, and responsive** digital experienc
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Smajlovic&layout=compact&theme=radical&langs_count=6)
 
-## 🐱 Convoy Cat
-
-![Convoy Cat](https://github.com/Hasan-Smajlovic/Hasan-Smajlovic/blob/output/github-contribution-grid-snake.svg)
