@@ -4,7 +4,7 @@
 
 I craft modern, performant web applications using Next.js and React.js, ensure clean UI with TypeScript, and build solid APIs with Node.js. Currently exploring **Machine Learning** to merge intelligent features into web solutions.
 
-## �‍🚀 Tech Stack
+## 🚀 Tech Stack
 
 **🎨 Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
