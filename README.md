@@ -1,102 +1,30 @@
-# 👋 Hi there, I'm Hasan
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Hasan Smajlović - an eye looks at the text and dwell-clicks on it">
+</p>
 
-### 🎓 Bachelor of Software Engineering  
-### 🤖 Machine Learning & AI Practitioner (Primary Focus)  
-### 💻 Former Frontend-Leaning Full-Stack Developer (Still Active)
+Hi, I'm Hasan. I studied software engineering and started my career on web apps, mostly on the frontend. Now I spend most of my time on machine learning and computer vision.
 
-I’m currently transitioning from full-stack web development into **Machine Learning, Deep Learning, NLP, and eventually LLMs**.  
-My long-term goal is to build **intelligent, data-driven systems** and apply ML to real-world business problems.
+I like projects where the computer reacts to a person: where they look, how they move their hands, what they say.
 
----
+### Things I built
 
-## 🚀 What I'm Working On
+**[Pogled Assist](https://github.com/Hasan-Smajlovic/Pogled-Assist)**
+A Windows app for the Tobii Eye Tracker 4C. You move the mouse with your eyes, click by looking at something for a moment, and type Bosnian text that the computer reads out loud. The banner above is a small tribute to it.
 
-### **🔹 Machine Learning (Main Focus)**
-Actively studying ML through **Andrew Ng’s Supervised ML** and **Encode x CoderDojo Machine Learning Program**, covering:
+**[Voice Isolator](https://github.com/Hasan-Smajlovic/voice-isolator)**
+Removes music and background noise from a video and keeps only the voice. It runs on your own computer, with no uploads and no subscription.
 
-#### **Supervised Learning**
-- Linear Regression (single/multiple features)  
-- Cost Functions & Gradient Descent  
-- Vectorization  
-- Feature Scaling  
-- Polynomial Regression  
-- Logistic Regression  
-- Classification & Decision Boundaries  
-- Overfitting + Regularization  
+**[Gesture control for Windows](https://github.com/Hasan-Smajlovic/motion-based-gestures-controlling-os)**
+A webcam watches your hand, a small PyTorch model recognizes the gesture, and the gesture triggers a desktop action.
 
-#### **Advanced Learning Algorithms**
-- Demand prediction  
-- Face recognition fundamentals  
-- Neural Network layer structure  
-- Neural network models  
-- Forward propagation (inference)
+**Smaller experiments:** [sign language detector](https://github.com/Hasan-Smajlovic/sign-language-detector), [face blur](https://github.com/Hasan-Smajlovic/face-detection-and-blurring), [emotion detection](https://github.com/Hasan-Smajlovic/emotion-detection-python-opencv), [text detection](https://github.com/Hasan-Smajlovic/text-detection-with-python), [house price prediction](https://github.com/Hasan-Smajlovic/House-Price-Prediction).
 
-#### **Financial Modeling**
-- Intrinsic Value  
-- Time Value  
-- Total Option Value  
-- Predictive modeling using ML  
-- Comparing ML predictions vs. **Black-Scholes model**
+### Where I am now
 
-#### **Tools & Libraries**
-- Python  
-- NumPy  
-- pandas  
-- scikit-learn  
+<p align="center">
+  <img src="assets/route.svg" width="100%" alt="Learning route: web dev, machine learning, neural networks (current), NLP, LLMs">
+</p>
 
----
+I use Python, NumPy, pandas, scikit-learn, PyTorch, OpenCV and FastAPI. For the web side, I still use React, Next.js, TypeScript and Node.js.
 
-## 🧠 Current Learning Path
-
-### **📌 Machine Learning → Deep Learning → NLP → LLMs**
-
-- Finishing Supervised ML foundations  
-- Implementing classification & regression projects  
-- Moving into **Neural Networks + Optimization**  
-- Starting **NLP (tokenization, embeddings, sequence models)**  
-- Transitioning into **Transformers & LLMs**  
-- Building real ML projects and intelligent apps  
-
----
-
-## 💻 Secondary Skillset — Web Development
-
-Although ML is my main direction, I still maintain strong full-stack skills:
-
-### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-
-### **Dev Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasan-Smajlovic&show_icons=true&theme=radical&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Smajlovic&layout=compact&theme=radical&langs_count=6)
-
----
-
-## 🎯 My Goal
-
-To become a **Machine Learning Engineer** capable of building:  
-- prediction models  
-- intelligent systems  
-- NLP pipelines  
-- LLM-powered applications  
-
-And merging AI + software engineering into real, impactful solutions.
-
----
+<sub>Based in Bosnia and Herzegovina.</sub>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" width="1000" height="180" role="img" aria-label="Learning route: web development, machine learning, neural networks (current), NLP, LLMs.">
+  <rect width="1000" height="180" rx="18" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="999" height="179" rx="18" fill="none" stroke="#30363d"/>
+
+  <text x="40" y="40" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#8b949e">line M1  ·  web dev → LLMs</text>
+
+  <!-- track: done part solid, future part dashed -->
+  <line x1="100" y1="95" x2="500" y2="95" stroke="#2dd4bf" stroke-width="8" stroke-linecap="round"/>
+  <line x1="500" y1="95" x2="900" y2="95" stroke="#30363d" stroke-width="8" stroke-linecap="round" stroke-dasharray="2 16"/>
+
+  <!-- train moving on the done part -->
+  <circle r="5" cy="95" fill="#ffffff" opacity="0.9">
+    <animate attributeName="cx" dur="3.5s" repeatCount="indefinite" values="100;490" keyTimes="0;1"/>
+    <animate attributeName="opacity" dur="3.5s" repeatCount="indefinite" values="0;0.9;0.9;0" keyTimes="0;0.1;0.85;1"/>
+  </circle>
+
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <!-- done stops -->
+    <circle cx="100" cy="95" r="13" fill="#0d1117" stroke="#2dd4bf" stroke-width="5"/>
+    <text x="100" y="138" font-size="17" fill="#e6edf3">Web dev</text>
+    <text x="100" y="158" font-size="13" fill="#8b949e">React, Next.js</text>
+
+    <circle cx="300" cy="95" r="13" fill="#0d1117" stroke="#2dd4bf" stroke-width="5"/>
+    <text x="300" y="138" font-size="17" fill="#e6edf3">Machine learning</text>
+    <text x="300" y="158" font-size="13" fill="#8b949e">regression, classification</text>
+
+    <!-- current stop -->
+    <circle cx="500" cy="95" r="13" fill="none" stroke="#f59e0b" stroke-width="3">
+      <animate attributeName="r" dur="2s" repeatCount="indefinite" values="13;30"/>
+      <animate attributeName="opacity" dur="2s" repeatCount="indefinite" values="0.9;0"/>
+    </circle>
+    <circle cx="500" cy="95" r="13" fill="#f59e0b"/>
+    <text x="500" y="62" font-size="12" fill="#f59e0b" font-family="Consolas, 'Courier New', monospace">I am here</text>
+    <text x="500" y="138" font-size="17" fill="#e6edf3" font-weight="600">Neural networks</text>
+    <text x="500" y="158" font-size="13" fill="#8b949e">computer vision</text>
+
+    <!-- next stops -->
+    <circle cx="700" cy="95" r="13" fill="#0d1117" stroke="#484f58" stroke-width="5"/>
+    <text x="700" y="138" font-size="17" fill="#8b949e">NLP</text>
+    <text x="700" y="158" font-size="13" fill="#484f58">embeddings, sequences</text>
+
+    <circle cx="900" cy="95" r="13" fill="#0d1117" stroke="#484f58" stroke-width="5"/>
+    <text x="900" y="138" font-size="17" fill="#8b949e">LLMs</text>
+    <text x="900" y="158" font-size="13" fill="#484f58">transformers</text>
+  </g>
+</svg>
