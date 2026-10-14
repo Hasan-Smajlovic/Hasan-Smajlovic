@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Hasan Smajlović - Software engineer from Bosnia and Herzegovina">
+  <img src="assets/banner-map.svg" width="100%" alt="Hasan Smajlović - Software engineer from Bosnia and Herzegovina">
 </p>
 
 ### Things I built
