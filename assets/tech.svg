@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 268" width="1000" height="268" role="img" aria-label="Tech I use: Python, PyTorch, TensorFlow, scikit-learn, NumPy, pandas, OpenCV, MediaPipe, FastAPI, Node.js, Express, React, Next.js, JavaScript, MongoDB, MySQL">
+<rect width="1000" height="268" rx="18" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="999" height="267" rx="18" fill="none" stroke="#30363d"/>
+<text x="40" y="38" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#8b949e">on-screen keyboard  ·  look at a key to press it</text>
+<g><clipPath id="k0"><rect x="126.4" y="62" width="99.2" height="50" rx="9"/></clipPath>
+<rect x="126.4" y="62" width="99.2" height="50" rx="9" fill="#161b22"/>
+<rect x="126.4" y="62" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k0)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.0469;0.0669;1" values="0;99.2;0;0"/></rect>
+<rect x="126.9" y="62.5" width="98.2" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.0469;0.0669;1" values="#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="176.0" y="93.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">Python</text></g>
+<g><clipPath id="k1"><rect x="237.6" y="62" width="108.4" height="50" rx="9"/></clipPath>
+<rect x="237.6" y="62" width="108.4" height="50" rx="9" fill="#161b22"/>
+<rect x="237.6" y="62" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k1)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.1250;0.1719;0.1919;1" values="0;0;108.4;0;0"/></rect>
+<rect x="238.1" y="62.5" width="107.4" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.1250;0.1719;0.1919;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="291.8" y="93.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">PyTorch</text></g>
+<g><clipPath id="k2"><rect x="358.0" y="62" width="136.0" height="50" rx="9"/></clipPath>
+<rect x="358.0" y="62" width="136.0" height="50" rx="9" fill="#161b22"/>
+<rect x="358.0" y="62" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k2)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.5000;0.5469;0.5669;1" values="0;0;136.0;0;0"/></rect>
+<rect x="358.5" y="62.5" width="135.0" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.5000;0.5469;0.5669;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="426.0" y="93.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">TensorFlow</text></g>
+<g><clipPath id="k3"><rect x="506.0" y="62" width="154.4" height="50" rx="9"/></clipPath>
+<rect x="506.0" y="62" width="154.4" height="50" rx="9" fill="#161b22"/>
+<rect x="506.0" y="62" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k3)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.3125;0.3594;0.3794;1" values="0;0;154.4;0;0"/></rect>
+<rect x="506.5" y="62.5" width="153.4" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.3125;0.3594;0.3794;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="583.2" y="93.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">scikit-learn</text></g>
+<g><clipPath id="k4"><rect x="672.4" y="62" width="90.0" height="50" rx="9"/></clipPath>
+<rect x="672.4" y="62" width="90.0" height="50" rx="9" fill="#161b22"/>
+<rect x="672.4" y="62" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k4)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.8125;0.8594;0.8794;1" values="0;0;90.0;0;0"/></rect>
+<rect x="672.9" y="62.5" width="89.0" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.8125;0.8594;0.8794;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="717.4" y="93.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">NumPy</text></g>
+<g><clipPath id="k5"><rect x="774.4" y="62" width="99.2" height="50" rx="9"/></clipPath>
+<rect x="774.4" y="62" width="99.2" height="50" rx="9" fill="#161b22"/>
+<rect x="774.4" y="62" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k5)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.6250;0.6719;0.6919;1" values="0;0;99.2;0;0"/></rect>
+<rect x="774.9" y="62.5" width="98.2" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.6250;0.6719;0.6919;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="824.0" y="93.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">pandas</text></g>
+<g><clipPath id="k6"><rect x="200.4" y="124" width="99.2" height="50" rx="9"/></clipPath>
+<rect x="200.4" y="124" width="99.2" height="50" rx="9" fill="#161b22"/>
+<rect x="200.4" y="124" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k6)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.0625;0.1094;0.1294;1" values="0;0;99.2;0;0"/></rect>
+<rect x="200.9" y="124.5" width="98.2" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.0625;0.1094;0.1294;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="250.0" y="155.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">OpenCV</text></g>
+<g><clipPath id="k7"><rect x="311.6" y="124" width="126.8" height="50" rx="9"/></clipPath>
+<rect x="311.6" y="124" width="126.8" height="50" rx="9" fill="#161b22"/>
+<rect x="311.6" y="124" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k7)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.2500;0.2969;0.3169;1" values="0;0;126.8;0;0"/></rect>
+<rect x="312.1" y="124.5" width="125.8" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.2500;0.2969;0.3169;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="375.0" y="155.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">MediaPipe</text></g>
+<g><clipPath id="k8"><rect x="450.4" y="124" width="108.4" height="50" rx="9"/></clipPath>
+<rect x="450.4" y="124" width="108.4" height="50" rx="9" fill="#161b22"/>
+<rect x="450.4" y="124" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k8)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.6875;0.7344;0.7544;1" values="0;0;108.4;0;0"/></rect>
+<rect x="450.9" y="124.5" width="107.4" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.6875;0.7344;0.7544;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="504.6" y="155.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">FastAPI</text></g>
+<g><clipPath id="k9"><rect x="570.8" y="124" width="108.4" height="50" rx="9"/></clipPath>
+<rect x="570.8" y="124" width="108.4" height="50" rx="9" fill="#161b22"/>
+<rect x="570.8" y="124" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k9)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.4375;0.4844;0.5044;1" values="0;0;108.4;0;0"/></rect>
+<rect x="571.3" y="124.5" width="107.4" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.4375;0.4844;0.5044;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="625.0" y="155.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">Node.js</text></g>
+<g><clipPath id="k10"><rect x="691.2" y="124" width="108.4" height="50" rx="9"/></clipPath>
+<rect x="691.2" y="124" width="108.4" height="50" rx="9" fill="#161b22"/>
+<rect x="691.2" y="124" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k10)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.8750;0.9219;0.9419;1" values="0;0;108.4;0;0"/></rect>
+<rect x="691.7" y="124.5" width="107.4" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.8750;0.9219;0.9419;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="745.4" y="155.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">Express</text></g>
+<g><clipPath id="k11"><rect x="209.6" y="186" width="90.0" height="50" rx="9"/></clipPath>
+<rect x="209.6" y="186" width="90.0" height="50" rx="9" fill="#161b22"/>
+<rect x="209.6" y="186" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k11)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.1875;0.2344;0.2544;1" values="0;0;90.0;0;0"/></rect>
+<rect x="210.1" y="186.5" width="89.0" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.1875;0.2344;0.2544;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="254.6" y="217.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">React</text></g>
+<g><clipPath id="k12"><rect x="311.6" y="186" width="108.4" height="50" rx="9"/></clipPath>
+<rect x="311.6" y="186" width="108.4" height="50" rx="9" fill="#161b22"/>
+<rect x="311.6" y="186" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k12)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.5625;0.6094;0.6294;1" values="0;0;108.4;0;0"/></rect>
+<rect x="312.1" y="186.5" width="107.4" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.5625;0.6094;0.6294;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="365.8" y="217.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">Next.js</text></g>
+<g><clipPath id="k13"><rect x="432.0" y="186" width="136.0" height="50" rx="9"/></clipPath>
+<rect x="432.0" y="186" width="136.0" height="50" rx="9" fill="#161b22"/>
+<rect x="432.0" y="186" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k13)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.3750;0.4219;0.4419;1" values="0;0;136.0;0;0"/></rect>
+<rect x="432.5" y="186.5" width="135.0" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.3750;0.4219;0.4419;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="500.0" y="217.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">JavaScript</text></g>
+<g><clipPath id="k14"><rect x="580.0" y="186" width="108.4" height="50" rx="9"/></clipPath>
+<rect x="580.0" y="186" width="108.4" height="50" rx="9" fill="#161b22"/>
+<rect x="580.0" y="186" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k14)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.7500;0.7969;0.8169;1" values="0;0;108.4;0;0"/></rect>
+<rect x="580.5" y="186.5" width="107.4" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.7500;0.7969;0.8169;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="634.2" y="217.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">MongoDB</text></g>
+<g><clipPath id="k15"><rect x="700.4" y="186" width="90.0" height="50" rx="9"/></clipPath>
+<rect x="700.4" y="186" width="90.0" height="50" rx="9" fill="#161b22"/>
+<rect x="700.4" y="186" width="0" height="50" fill="#2dd4bf" opacity="0.18" clip-path="url(#k15)"><animate attributeName="width" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.9375;0.9844;1.0000;1" values="0;0;90.0;0;0"/></rect>
+<rect x="700.9" y="186.5" width="89.0" height="49" rx="9" fill="none" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="17.6s" repeatCount="indefinite" keyTimes="0;0.9375;0.9844;1.0000;1" values="#30363d;#30363d;#2dd4bf;#30363d;#30363d"/></rect>
+<text x="745.4" y="217.0" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3">MySQL</text></g>
+</svg>

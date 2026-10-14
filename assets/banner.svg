@@ -48,7 +48,7 @@
 
   <!-- text -->
   <text x="360" y="128" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#e6edf3">Hasan Smajlović</text>
-  <text x="362" y="172" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8b949e">Software engineer from Bosnia and Herzegovina</text>
+  <text x="362" y="172" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8b949e">Machine learning · Computer vision · Web</text>
   <text x="362" y="212" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#c9d1d9">I build software you can control with your <tspan fill="#2dd4bf">eyes</tspan>, <tspan fill="#2dd4bf">hands</tspan> and <tspan fill="#2dd4bf">voice</tspan>.</text>
 
   <!-- gaze point with dwell ring -->
