@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Hasan Smajlović - an eye looks at the text and dwell-clicks on it">
+  <img src="assets/banner.svg" width="100%" alt="Hasan Smajlović - Software engineer from Bosnia and Herzegovina">
 </p>
 
 ### Things I built
 
 | Project | Input | What it does |
 |---|---|---|
-| **[Pogled Assist](https://github.com/Hasan-Smajlovic/Pogled-Assist)** | eyes | Move the mouse, click and speak Bosnian with a Tobii eye tracker. The banner above is based on it. |
+| **[Pogled Assist](https://github.com/Hasan-Smajlovic/Pogled-Assist)** | eyes | Move the mouse, click and speak Bosnian with a Tobii eye tracker. |
 | **[Gesture OS](https://github.com/Hasan-Smajlovic/motion-based-gestures-controlling-os)** | hands | A webcam and a PyTorch model turn hand gestures into desktop actions. |
 | **[Voice Isolator](https://github.com/Hasan-Smajlovic/voice-isolator)** | voice | Removes music and noise from a video and keeps only the voice. Runs locally. |
 | **[Sign Language Detector](https://github.com/Hasan-Smajlovic/sign-language-detector)** | hands | Reads hand signs from a webcam. |
