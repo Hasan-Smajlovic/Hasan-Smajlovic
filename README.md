@@ -5,7 +5,7 @@
 ### Things I built
 
 | Project | What it does |
-|---|---|---|
+|---|---|
 | **[Pogled Assist](https://github.com/Hasan-Smajlovic/Pogled-Assist)** | Move the mouse, click and speak Bosnian with a Tobii eye tracker. |
 | **[Gesture OS](https://github.com/Hasan-Smajlovic/motion-based-gestures-controlling-os)** | A webcam and a PyTorch model turn hand gestures into desktop actions. |
 | **[Voice Isolator](https://github.com/Hasan-Smajlovic/voice-isolator)** | Removes music and noise from a video and keeps only the voice. Runs locally. |
@@ -23,5 +23,5 @@
 ### Courses
 
 <p align="center">
-  <img src="assets/route.svg" width="100%" alt="Courses: React, API design, Machine learning, PyTorch, Computer vision, LLMs (now)">
+  <img src="assets/route.svg" width="100%" alt="Courses: React, API design, Machine learning, PyTorch, Computer vision, LLMs (current)">
 </p>
